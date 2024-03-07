@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on personnal project<br>👯 I'm looking for a job as a back-end or full tack developer<br>🌱 I’m currently learning new gems and scaling<br>📫 You can reach me at my Linkedin or by mail :) wurfl.valentin@gmail.com
+🔭 I’m currently working on personnal project<br>👯 I'm looking for a job as a back-end or full stack developer<br>🌱 I’m currently learning new gems and scaling<br>📫 You can reach me at my Linkedin or by mail :) wurfl.valentin@gmail.com
 
 
 ## 🌐 Socials:
